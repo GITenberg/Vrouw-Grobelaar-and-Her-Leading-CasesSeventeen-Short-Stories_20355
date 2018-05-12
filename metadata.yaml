@@ -1,0 +1,33 @@
+_repo: Vrouw-Grobelaar-and-Her-Leading-CasesSeventeen-Short-Stories_20355
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibbon, Perceval
+    birthdate: 1879
+    deathdate: 1926
+    gutenberg_agent_id: '7708'
+    url: http://www.gutenberg.org/2009/agents/7708
+    wikipedia: http://en.wikipedia.org/wiki/Perceval_Gibbon
+description: ''
+gutenberg_issued: '2007-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+tableOfContents: Unto the third generation -- The dream-face -- The avenger of blood
+  -- The hands of the pitiful woman -- Piet Naude's trek -- Like unto like -- Counting
+  the colors -- The king of the baboons -- Morder Drift -- A good end -- Vasco's sweetheart
+  -- The Peruvian -- Tagalash -- The home kraal -- The sacrifice -- The coward --
+  Her own story.
+title: 'Vrouw Grobelaar and Her Leading Cases: Seventeen Short Stories'
+url: http://www.gutenberg.org/ebooks/20355
